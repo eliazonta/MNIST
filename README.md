@@ -1,2 +1,3 @@
-# MNIST
-MNIST dataset model implementation 
+# MNIST [SGD]
+MNIST dataset 
+Sciikit SGD model implementation 
